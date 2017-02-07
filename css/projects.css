@@ -16,3 +16,8 @@ img{
 .col-sm-6{
 	padding: 1%;
 }
+
+.blockquote.twitter-video {
+	margin-right: auto; 
+	margin-left: auto;
+}
