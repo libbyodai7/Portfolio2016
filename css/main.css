@@ -91,21 +91,17 @@ a:link {
 	color: #6B6A6B;
 }
 
+a:visited {
+	text-decoration:none;
+	color: #6B6A6B;
+}
+
 
 a:hover {
 	text-decoration:none;
 	color: #DBD7DB;
 }
 
-a:visited {
-	text-decoration:none;
-	color: #6B6A6B;
-}
-
-a:active {
-	text-decoration:none;
-	color: #6B6A6B;
-}
 
 
 .container{
