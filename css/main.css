@@ -40,6 +40,20 @@ h4{
 	color: #A8A8A8;
 }
 
+a h4{
+
+	position: absolute;
+	text-align: center;
+	margin: auto;
+	opacity: 0;
+	background: black;
+	transition: 1s;
+}
+
+a:hover h4{
+	opacity: 1;
+}
+
 h5{
 
 	font-family: 'Courgette', cursive;
@@ -111,6 +125,10 @@ circular1{
 circular1 img{
 	opacity: 0;
 	filter: alpha(opacity=0);
+}
+
+a:hover circular{
+	opacity:0;
 }
 
 .text-field{
